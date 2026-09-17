@@ -1,5 +1,5 @@
 # hamsci-hardware
-A template repository for documenting HamSCI hardware. 
+A template repository for documenting HamSCI hardware. Want to use this to document your project? Click the "Use as template" button in the upper right hand corner of this page and follow the checklist below. The repository will hold your documentation and create a website for your project through Github Pages. 
 
 ## [Check out the example documentation pages here.](https://hamsci.github.io/hamsci-hardware)
 
@@ -8,9 +8,9 @@ A template repository for documenting HamSCI hardware.
 - [ ] Populate the docs pages. 
 - [ ] Edit CITATION.cff file.
 - [ ] [Select a license](https://choosealicense.com/non-software/) and add a LICENSE.txt file.
-- [ ] Update this README by filling out the table below (from [_HardwareX_](https://doi.org/10.5281/zenodo.3364474)) and deleting this checklist.
-- [ ] Under Settings>Pages, set this to deploy as a Github page with main/docs as the root directory. You can find an example screenshot [here](https://github.com/HamSCI/hamsci-hardware/blob/main/docs/assets/images/deployment.png).
+- [ ] Under Settings>Pages, set this to deploy as a Github page with main/docs as the root directory. You can find an example screenshot [here](https://github.com/HamSCI/hamsci-hardware/blob/main/docs/assets/images/deployment.png). (Your account or organization will already need to have a github.io repository; click [here](https://docs.github.com/en/pages/quickstart) to learn how to set one up.)
 - [ ] Verify that the documentation pages are published on hamsci.github.io.
+- [ ] Update this README by filling out the table below (from [_HardwareX_](https://doi.org/10.5281/zenodo.3364474)) and deleting this checklist.
 - [ ] When the repository is ready for release, [synchronize to a Zenodo repository](https://help.zenodo.org/docs/github/enable-repository/) and add DOI badge here.  
 
 
